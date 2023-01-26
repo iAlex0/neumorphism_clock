@@ -1,6 +1,6 @@
 # Neumorphism Clock
 
->CSS ONeumorphism Working Analog Clock. 
+>CSS Neumorphism Working Analog Clock. 
 
 <img src="images/giphy.gif" width="500"/>
 
